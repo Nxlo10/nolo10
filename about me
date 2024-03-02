@@ -1,1 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--encoding and viewport tags -->
+<meta charset="utf-8">
+<meta name="viewport content="width=device-width,initial-sale=1
+<1--Link to external stylesheet-->
+<link rel="stylesheet" href="styles.css">
+	<title>About us Section Design</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+</head>
+<body>
+
+		<div class="dropdown"
+        	<button></button
+            <dic class="content">
+            	<a href="">Home</a>
+                <a href="">About</a>
+                <a href="">Contact</a>
+                </div>
+        </div>
+
+<h1>My Webpage</h1>
+<p> About me: </p>
+<!--Main Heading-->
+<h1>About</h1>
+<!--Navigation -->
+<button class= "menu-toggle">Toggle Menu</button>
+<nav class="menu">
+<p> Hi My name is Akinola Akinbolu and I am an IT major here at Kennesaw State Univesity with a concentration in cyber security. I also love to play soccer and have dreams of going to play in the professional level. I love to work out and build my self mentally and physically. I graduated from Archer High School in 2021. I decided to major in IT because I have strong passion for tech and find it very interesting. Even though I am a junior here,its actually my 2nd year here because when I was a freshman I did online schooling and found it well. I also enjoy playing video games, so its wise that you know that I am very competittive  On part-time I work at Home depot.</p>
+	
+</body>
+</html>
+
 
